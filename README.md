@@ -1,4 +1,5 @@
 # mpalmer2223CodingProject.github.io
+[Coding Project.py](https://github.com/user-attachments/files/33465547/Coding.Project.py)
 print("--- LIGHTBULB LIFESPAN & ENERGY CALCULATOR ---")
 print("This project calculates the annual operating costs and expected lifespan of various lightbulbs based on your daily usage.")
 print("It helps you analyze energy consumption, compare incandescent vs. LED efficiency, and project replacement timelines.")
